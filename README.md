@@ -32,7 +32,7 @@ I actually built this node specifically to deal with Flux. If you use Flux for i
 1. Open your terminal and navigate to your ComfyUI `custom_nodes` folder.
 2. Clone the repository:
    ```bash
-   git clone [https://github.com/butchpaolom/ComfyUI-Inpaint-Color-Match-Global.git](https://github.com/butchpaolom/ComfyUI-Inpaint-Color-Match-Global.git)
+   git clone https://github.com/butchpaolom/ComfyUI-Inpaint-Color-Match-Global.git
 
 ## Node Inputs & Outputs
 
